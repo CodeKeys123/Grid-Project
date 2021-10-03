@@ -1,0 +1,19 @@
+body {
+    margin: 0%;
+    padding: 0;
+}
+
+.Grids {
+    display: grid;
+}
+
+.col {
+    position: relative;
+}
+
+.col2 {
+    position: absolute;
+    float: left;
+    right: 1.5px;
+    top: 32px;
+}
